@@ -4,8 +4,6 @@ This is part of Maja home project.
 
 Module works via local plugged ZigBee stick and send requests to *mqtt* server.
 
-[TOC]
-
 ## Compile
 
 go build
